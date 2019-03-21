@@ -7,6 +7,6 @@ This Twitter bot was created to spread positivity, happiness, and light to all w
 ## Usage
 Use this [Tracery JSON](http://air.decontextualize.com/tracery/) script to build your own Twitter bot! I'm happy to share my words- change the phrases, adjectives, and nouns to create your own script, then plug it into Cheap Bots Done Quick with your own Twitter credentials to use.
 
-### Enjoy, Share, and Spread Love
+## Enjoy, Share, and Spread Love
 If you enjoyed this app, share the love! Send in a pull request to add additional affirmations, share the app with someone looking to make a Twitter bot, or follow [@Ascensibot](http://twitter.com/ascensibot) for positive affirmations on your Twitter feed.
 
